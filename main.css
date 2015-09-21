@@ -3,12 +3,13 @@ body {
 	background-color: white;
 }
 .container {
-	padding:20px 400px 20px 400px;
+	padding:30px;
 	background-color: gainsboro;
 }
 .row,
 .column {
 	border-bottom: 2px solid black;
+	clear: both;
 }
 .col-xs-12 {
 	background-image:url(psd2html/e2/assets/assets/h_img.jpg);
@@ -17,6 +18,11 @@ body {
 }
 .coll {
 	background-image:url(psd2html/e2/assets/assets/s_image.jpg);
+	height:30vw;
+	width:120vw;
+}
+.col {
+	background-color: white;
 	height:30vw;
 	width:120vw;
 }
