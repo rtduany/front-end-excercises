@@ -1,0 +1,8 @@
+#header{
+	background-image: url(assets/assets/h_img.jpg);
+	height:350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+	background-size: 100% 100%;
+}
