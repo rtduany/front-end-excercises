@@ -33,4 +33,12 @@
 	height:400px;
 	background-size: cover;
 	background-repeat: no-repeat;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+#services{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
