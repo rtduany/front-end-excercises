@@ -1,4 +1,4 @@
-#header{
+#container1{
 	background-image: url(assets/assets/h_img.jpg);
 	height:400px;
 	background-size: cover;
@@ -39,6 +39,17 @@
 }
 #services{
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#container4{
+	background-color:aliceblue;
+	height:200px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
+#what_we_do{
 	margin-left: auto;
 	margin-right: auto;
 }
