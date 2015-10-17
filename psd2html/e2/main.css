@@ -17,6 +17,7 @@
 	color:white;
 }
 #container2{
+	background-color:aliceblue;
 	height:400px;
 	display: flex;
 	text-align: center;
@@ -26,4 +27,10 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+#container3{
+	background-image: url(assets/assets/s_image.jpg);
+	height:400px;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
