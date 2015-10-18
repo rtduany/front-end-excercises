@@ -1,3 +1,6 @@
+.container{
+	background-color:aliceblue;
+}
 #container1{
 	background-image: url(assets/assets/h_img.jpg);
 	height:400px;
@@ -17,7 +20,6 @@
 	color:white;
 }
 #container2{
-	background-color:aliceblue;
 	height:400px;
 	display: flex;
 	text-align: center;
@@ -39,7 +41,6 @@
 }
 
 #container4{
-	background-color:aliceblue;
 	height:140px;
 	display: flex;
 	text-align: center;
@@ -51,7 +52,6 @@
 	margin-right: auto;
 }
 #container5{
-	background-color:aliceblue;
 	height:400px;
 	display: flex;
 	text-align: center;
@@ -59,7 +59,6 @@
 }
 
 .displayed{
-	background-color:aliceblue;
 	height:auto;
 	display: flex;
 	text-align: center;
@@ -70,9 +69,9 @@
 }
 
 #container9{
-	background-color:aliceblue;
-	height:400px;
+	height:auto;
 	display: flex;
 	text-align: center;
 	align-items: center;
+	margin-top: 80px;
 }
