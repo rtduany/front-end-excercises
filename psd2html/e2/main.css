@@ -68,3 +68,11 @@
 #center_img{
 	margin: 15px;
 }
+
+#container9{
+	background-color:aliceblue;
+	height:400px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
