@@ -58,14 +58,19 @@
 	align-items: center;
 }
 #container6{
-	height:100px;
+	background-color:aliceblue;
+	height:auto;
 	display: flex;
 	text-align: center;
 	align-items: center;
 }
 #container7{
-	height:100px;
+	background-color:aliceblue;
+	height:auto;
 	display: flex;
 	text-align: center;
 	align-items: center;
+}
+#center_img{
+	margin: 15px;
 }
