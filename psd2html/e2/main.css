@@ -82,20 +82,9 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	display: flex;
-	text-align: center;
-	align-items: center;
-	margin-top: 40px;
-	position: relative;
 }
 .contact{
-	position: absolute;
-	margin-top: -420px;
 	display: table;
-	border: 2px solid white;
 	color: white;
-	align-self: center;
-	left: 50%;
-	margin-right: -50%;
-	transform: translate(-50%, -50%);
+	text-align: center;
 }
