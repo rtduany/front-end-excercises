@@ -68,8 +68,20 @@
 	margin: 15px;
 }
 
-#container9{
+#container7{
 	height:auto;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	margin-top: 80px;
+}
+
+#container9{
+	background-image: url(assets/assets/c_image.jpg);
+	height:600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 	display: flex;
 	text-align: center;
 	align-items: center;
