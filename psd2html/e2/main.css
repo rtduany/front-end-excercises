@@ -91,9 +91,17 @@
 .email{
 	display: table;
 	color: white;
-	border: 2px solid white;
+	border: 3px solid white;
 	height: 60px;
 }
 #name{
 	margin-top: 50px;
+}
+
+.message{
+	display: table;
+	color: white;
+	border: 3px solid white;
+	height: 180px;
+	margin-top: 40px;
 }
