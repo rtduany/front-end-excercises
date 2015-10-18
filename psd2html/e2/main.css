@@ -92,4 +92,8 @@
 	display: table;
 	color: white;
 	border: 2px solid white;
+	height: 60px;
+}
+#name{
+	margin-top: 50px;
 }
