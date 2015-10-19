@@ -105,3 +105,9 @@
 	height: 180px;
 	margin-top: 40px;
 }
+#footer{
+	height: 200px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+}
