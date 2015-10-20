@@ -22,6 +22,10 @@ div p{
 	background-size: 100% 100%;
 	padding-top: 30px;
 }
+#hero{
+	width: 1200px;
+	margin-left: 40px
+}
 #caption{
 	display:block;
 	margin-left: auto;
