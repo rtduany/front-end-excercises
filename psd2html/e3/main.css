@@ -105,17 +105,23 @@ hr{
 	display:flex;
 	align-items: center;
 	text-align: center;
-
 }
 #men_cloth{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 1270px;
-	height: 1200px;
+	height: 400px;
 }
 #container5{
 	display:flex;
 	align-items: center;
 	text-align: center;
+}
+#women_cloth{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1270px;
+	height: 400px;
 }
