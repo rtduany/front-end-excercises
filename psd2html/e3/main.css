@@ -55,18 +55,19 @@ div p{
 	margin-top:700px;
 }
 
-label {
-    display: block;
+#wmlabel {
+	float: left;
     padding-left: 15px;
-    text-indent: -15px;
 }
-input {
-    width: 13px;
-    height: 13px;
-    padding: 0;
-    margin:0;
-    vertical-align: bottom;
-    position: relative;
-    top: -1px;
-    *overflow: hidden;
+* {
+    padding: 0px;
+    margin: 0px;
+}
+#wm {
+    width: 15px;
+    height: 15px;
+    float: left;
+}
+#see_all{
+	width: 100%;
 }
