@@ -93,3 +93,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b7a1', end
 	width: 100%;
 	height: 30px;
 }
+#container3{
+	height: 1500px;
+	width: 1270px;
+	position:relative;
+}
+hr{
+
+}
+#container4{
+	display:flex;
+	align-items: center;
+	text-align: center;
+}
+#men_cloth{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
