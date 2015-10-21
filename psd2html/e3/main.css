@@ -125,3 +125,16 @@ hr{
 	width: 1270px;
 	height: 400px;
 }
+#tshirt{
+	background-color: aliceblue;
+}
+#women_head{
+	align-self: baseline;
+}
+#container6{
+	background-image: url(assets/backgrounds/about.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 1270px;
+	height: 400px;
+}
