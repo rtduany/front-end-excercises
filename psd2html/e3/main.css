@@ -7,10 +7,10 @@ body{
 div h4{
 	color: white;
 }
-div h1{
+.hero_h{
 	font-size: 60px;
 }
-div p{
+.hero_p{
 	font-size: 20px;
 }
 #container1{
@@ -161,17 +161,17 @@ hr{
 	align-items: center;
 	text-align: center;
 }
+#container8{
+	background-color:black;
+	display: flex;
+	align-items: center;
+	width: 1270px;
+	height: 400px;
+}
+
 #white-block{
 	color: white;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
-#container8{
-	background-color:midnightblue;
-	width: 1270px;
-	height: 400px;
-	display:flex;
-	align-items: center;
-
 }
